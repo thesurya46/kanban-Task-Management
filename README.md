@@ -1,18 +1,23 @@
-# kanban-Task-Management
->>>>>>> 3dfe4bad10da61b1fbe07d8c154b7dfbd1a33017
-=======
 # Kanban Task Management
 
-This is a React/Vite app with Shadcn UI for Kanban board task management. Original Figma design: https://www.figma.com/design/I128zA4JxDhPPb5OsFh8bC/Untitled.
+A modern Kanban board app built with React, Vite, TypeScript, and Shadcn UI.
 
-## Running the code
+## Features
+- Drag & drop tasks between columns
+- Add/edit/delete tasks
+- Responsive design
+- Dark/Light mode support
 
-Run `npm i` to install the dependencies.
+## Quick Start
+1. Install dependencies: `npm install`
+2. Start dev server: `npm run dev`
+3. Open http://localhost:5173
 
-Run `npm run dev` to start the development server.
+## Tech Stack
+- React + Vite
+- TypeScript
+- Tailwind CSS
+- Shadcn UI components
+- React DnD for drag & drop
 
-View at http://localhost:5173
-  
-=======
-# kanban-Task-Management
->>>>>>> 3dfe4bad10da61b1fbe07d8c154b7dfbd1a33017
+Inspired by Figma design: https://www.figma.com/design/I128zA4JxDhPPb5OsFh8bC/Untitled
