@@ -1,3 +1,4 @@
+
 # Kanban Task Management
 
 A modern Kanban board app built with React, Vite, TypeScript, and Shadcn UI.
@@ -20,4 +21,4 @@ A modern Kanban board app built with React, Vite, TypeScript, and Shadcn UI.
 - Shadcn UI components
 - React DnD for drag & drop
 
-Inspired by Figma design: https://www.figma.com/design/I128zA4JxDhPPb5OsFh8bC/Untitled
+### This project is not in working condition .
